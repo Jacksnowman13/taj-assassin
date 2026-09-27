@@ -35,7 +35,7 @@ function Rules() {
         <Text fontWeight="normal" align="center">
           These rules are subject to slight changes, however changes will be
           announced{" "}
-          <a href="https://groupme.com/join_group/110084850/ZiIyoaQN">
+          <a href="https://groupme.com/join_group/117680486/e2yTbyEX">
             <Text display="inline" color="blue.400">
               in the GroupMe
             </Text>
@@ -81,7 +81,7 @@ function Rules() {
             <ListItem>
               The kill must be caught on video and uploaded to the GroupMe,
               linked{" "}
-              <a href="https://groupme.com/join_group/110084850/ZiIyoaQN">
+              <a href="https://groupme.com/join_group/117680486/e2yTbyEX">
                 <Text display="inline" color="blue.400">
                   HERE
                 </Text>
