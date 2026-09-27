@@ -261,8 +261,8 @@ function Rules() {
           Additional
           <UnorderedList fontWeight="normal">
             <ListItem>
-              Let Ben or Joe know if the website is bugging out or breaks
-              completely. They will fix it ASAP.
+              Let Ben know if the website is bugging out or breaks
+              completely. He will fix it ASAP.
             </ListItem>
             <ListItem>
               If there is a dispute, it will be ruled by the Assassin Overlords
