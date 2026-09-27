@@ -45,7 +45,7 @@ function Rules() {
       </Card>
       <UnorderedList maxWidth="500px">
         <ListItem fontWeight="bold">
-          New Rules (2025)
+          Notable rules
           <UnorderedList fontWeight="normal">
             <ListItem>
               <Text fontWeight="bold" display="inline">
@@ -112,17 +112,16 @@ function Rules() {
           Auto-elimination
           <UnorderedList fontWeight="normal">
             <ListItem>
-              There are 3 rounds of auto-elimination (rounds 1, 2, and 3), where
-              players must have a certain number of kills to move on.
+              There are 3 rounds of auto-elimination (rounds 1, 2, and 3). To
+              move on, a player must get at least 1 kill during that round.
             </ListItem>
             <ListItem>
-              If a player does not have the minimum number of kills upon that
-              round ending, they will be automatically eliminated.
+              If a player does not get a kill during a round, they will be
+              automatically eliminated when that round ends.
             </ListItem>
             <ListItem>
-              The kills do not have to be in the relevant round. A player must
-              meet the threshold in total kills, which includes those from
-              previous rounds.
+              Kills do NOT carry over. Extra kills from an earlier round do not
+              count toward a later round. Every round, you need a new kill.
             </ListItem>
           </UnorderedList>
         </ListItem>
@@ -143,10 +142,6 @@ function Rules() {
               Safe zones (as listed below) are still valid during these days.
               This presents an opportunity for everyone to eliminate their
               target, regardless of who they are assigned.
-            </ListItem>
-            <ListItem>
-              Parents day (September 27th) will be a safe day. No kills will be
-              allowed on that day. The game will resume on September 28th.
             </ListItem>
           </UnorderedList>
         </ListItem>
@@ -211,7 +206,7 @@ function Rules() {
               safety, no safe words, and no safe zones.
             </ListItem>
             <ListItem>
-              At the end of 10/5, if there is still more than a single person
+              At the end of 10/16, if there is still more than a single person
               remaining, there will be a duel between the two remaining
               participants with the most kills.
             </ListItem>
@@ -226,39 +221,39 @@ function Rules() {
           <List fontWeight="normal">
             <ListItem>
               <ListIcon as={ViewIcon} color="green.500" />
-              INITIAL TARGETS ANNOUNCED: 9/14
+              INITIAL TARGETS ANNOUNCED: Mon 9/28 morning
             </ListItem>
             <ListItem>
               <ListIcon as={TimeIcon} color="green.500" />
-              START of ROUND 1: 9/15 9AM
+              START of ROUND 1: Mon 9/28 9AM
             </ListItem>
             <ListItem>
               <ListIcon as={TimeIcon} color="red.500" />
-              END of ROUND 1: 9/22 11:59PM (1 total kill required)
+              END of ROUND 1: Sat 10/3 11:59PM (1 kill this round required)
             </ListItem>
             <ListItem>
               <ListIcon as={TimeIcon} color="green.500" />
-              START of ROUND 2: 9/23 9AM
+              START of ROUND 2: Sun 10/4 9AM
             </ListItem>
             <ListItem>
               <ListIcon as={TimeIcon} color="red.500" />
-              END of ROUND 2: 9/28 11:59PM (2 total kills required)
+              END of ROUND 2: Thu 10/8 11:59PM (1 kill this round required)
             </ListItem>
             <ListItem>
               <ListIcon as={TimeIcon} color="green.500" />
-              START of ROUND 3: 9/29 9AM
+              START of ROUND 3: Fri 10/9 9AM
             </ListItem>
             <ListItem>
               <ListIcon as={TimeIcon} color="red.500" />
-              END of ROUND 3: 10/5 11:59PM (3 total kills required)
+              END of ROUND 3: Tue 10/13 11:59PM (1 kill this round required)
             </ListItem>
             <ListItem>
               <ListIcon as={TimeIcon} color="green.500" />
-              START of ANARCHY: 10/6 9AM
+              START of ANARCHY: Wed 10/14 9AM
             </ListItem>
             <ListItem>
               <ListIcon as={TimeIcon} color="red.500" />
-              END of GAME: 10/11 11:59PM
+              END of GAME: Fri 10/16 11:59PM
             </ListItem>
           </List>
         </ListItem>
@@ -266,12 +261,12 @@ function Rules() {
           Additional
           <UnorderedList fontWeight="normal">
             <ListItem>
-              Let Johnny know if the website is bugging out or it breaks
-              completely, He will fix it ASAP.
+              Let Ben or Joe know if the website is bugging out or breaks
+              completely. They will fix it ASAP.
             </ListItem>
             <ListItem>
               If there is a dispute, it will be ruled by the Assassin Overlords
-              (Johnny).
+              (Ben and Joe).
             </ListItem>
           </UnorderedList>
         </ListItem>
