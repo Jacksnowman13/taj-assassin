@@ -206,7 +206,7 @@ function Rules() {
               safety, no safe words, and no safe zones.
             </ListItem>
             <ListItem>
-              At the end of 10/16, if there is still more than a single person
+              At the end of the game, if there is still more than a single person
               remaining, there will be a duel between the two remaining
               participants with the most kills.
             </ListItem>
@@ -253,7 +253,7 @@ function Rules() {
             </ListItem>
             <ListItem>
               <ListIcon as={TimeIcon} color="red.500" />
-              END of GAME: Fri 10/16 11:59PM
+              END of GAME: Fri 10/16 11:59PM (may be extended past fall break; decision announced in the GroupMe the week of 10/12)
             </ListItem>
           </List>
         </ListItem>
